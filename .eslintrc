@@ -1,0 +1,24 @@
+{
+  "env": {
+    "browser": true,
+    "amd": true,
+    "commonjs": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "globals": {
+    "$": true
+  },
+  "extends": "airbnb",
+  "rules": {
+    "linebreak-style": 0,
+    "indent": ["error", 4, { "SwitchCase": 1 }],
+    "import/no-extraneous-dependencies": 0,
+    "import/no-unresolved": 0,
+    "import/extensions": 0,
+    "func-names": 0,
+    "prefer-arrow-callback": 0
+  }
+}
