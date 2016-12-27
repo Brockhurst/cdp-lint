@@ -46,6 +46,7 @@
     "gulp-cached": "^1.1.0",
     "gulp-concat": "^2.6.0",
     "gulp-csso": "^2.0.0",
+    "gulp-eslint": "^3.0.1",
     "gulp-filter": "^4.0.0",
     "gulp-html-replace": "^1.5.5",
     "gulp-if": "^2.0.0",

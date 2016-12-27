@@ -14,7 +14,7 @@
   "extends": "airbnb",
   "rules": {
     "linebreak-style": 0,
-    "indent": ["error", 4, { "SwitchCase": 1 }],
+    "indent": [2, 4],
     "import/no-extraneous-dependencies": 0,
     "import/no-unresolved": 0,
     "import/extensions": 0,
